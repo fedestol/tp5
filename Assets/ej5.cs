@@ -13,7 +13,7 @@ public class ej5 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+       
 
        res=  num1/num2 ;
        
